@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import "main.css";
+@import "btn.css";
+@import "clock.css";
+@import "weather.css";
+@import "center.css";
+@import "todo.css";
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

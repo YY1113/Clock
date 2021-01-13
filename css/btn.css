@@ -1,0 +1,12 @@
+.btn {
+  cursor: pointer;
+}
+.form,
+.greetings {
+  background: none;
+}
+}
+
+.showing {
+  display: block;
+}
